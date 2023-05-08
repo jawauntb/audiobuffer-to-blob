@@ -1,6 +1,6 @@
 {
   "name": "audiobuffer-to-blob",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "audiobuffer-to-blob is a Node.js package that provides a simple and efficient way to convert an AudioBuffer to a Blob in MP3 format. This package is especially useful for web developers who need to export synthesized audio from a web application to a downloadable MP3 file.",
   "main": "index.js",
   "scripts": {
