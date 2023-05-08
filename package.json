@@ -14,6 +14,10 @@
     "sound"
   ],
   "author": "Jawaun Brown",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jawauntb/audiobuffer-to-blob.git"
+  },
   "license": "MIT",
   "dependencies": {
     "wav": "^1.0.2"
